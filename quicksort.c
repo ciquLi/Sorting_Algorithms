@@ -1,5 +1,4 @@
-//
-//  main.c
+
 //  QuickSort
 //
 //  Created by ciqu on 2018/12/19.
