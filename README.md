@@ -1,3 +1,3 @@
-# heap sort algorithm wirte with c
+# Sorting algorithms wirte with c
 
 
